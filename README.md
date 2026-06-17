@@ -83,3 +83,7 @@ Antes de rodar o script, você precisará ter instalado:
    [ INFO ] - [Honkai: Star Rail]: Você já realizou o check-in de hoje.
    [ INFO ] - [Zenless Zone Zero]: Check-in realizado com sucesso!
    ```
+
+---
+
+Esse Readme.md tal como o .gitignore foram criados com auxílio de inteligência artificial, as informações foram revisadas e testadas antes durante e após o envio do conteúdo. 18/06/2026
