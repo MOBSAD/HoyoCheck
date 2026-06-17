@@ -1,0 +1,11 @@
+# Ambientes virtuais (qualquer variação de nome)
+venv/
+.venv/
+env/
+
+# Arquivos de credenciais (NUNCA envie seus cookies do HoYoLab!)
+.env
+
+# Caches do Python
+__pycache__/
+*.pyc
